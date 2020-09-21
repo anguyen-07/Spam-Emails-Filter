@@ -1,6 +1,6 @@
 ---
 title: "Filtering Spam Emails via Classification Tree-Based Models"
-author: "Andy Nguyen, Michael Wolfe, Joseph Caguioa"
+author: "Andy Nguyen"
 date: "6/10/2020"
 output: html_document
 ---
